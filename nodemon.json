@@ -1,0 +1,7 @@
+{
+    "env":{
+        "Mongo_User":"car",
+        "Mongo_password":"Anario4002",
+        "Mongo_Db": "Events"
+    }
+}
